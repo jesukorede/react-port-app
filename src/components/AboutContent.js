@@ -20,10 +20,10 @@ const AboutContent = () => {
     <div className="right">
         <div className="img-container">
             <div className="img-stack top">
-                <img src={Ps4} className="img" alt="Here is an image" />
+                <img src={Ps4} className="img" alt="Here is an api example" />
             </div>
             <div className="img-stack bottom">
-                <img src={Watch} className="img" alt="Here is an image" />
+                <img src={Watch} className="img" alt="Here is the code on vs code" />
             </div>
         </div>
     </div>
