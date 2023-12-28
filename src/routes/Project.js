@@ -9,7 +9,7 @@ const Project = () => {
   return (
   <div>
     <Navbar />
-    <HeroImg2 heading="BENJAMIN PROJECTS." text="This are some of my most recent works & Gadgets"/>
+    <HeroImg2 heading="PROJECTS." text="This are some of my most recent works & Gadgets"/>
     <Work />
     <PricingCard />
     <Footer />

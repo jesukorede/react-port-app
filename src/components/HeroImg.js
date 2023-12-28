@@ -1,7 +1,7 @@
 import "./HeroImgStyles.css";
 
 import React from "react";
-import IntroImg from "../assets/IMG-20231007-WA0063.jpg"
+import IntroImg from "../assets/istockphoto-506250838-612x612.jpg"
 import { Link } from "react-router-dom";
 
 const HeroImg = () => {
@@ -10,7 +10,7 @@ const HeroImg = () => {
         <img className="into-img" src={IntroImg} alt="AppleImage" />
     </div>
     <div className="content">
-        <p>HI, I'M A GADGETS AFFILIATE.</p>
+        <p>HI, I'M A JAVASCRIPT FREELANCER.</p>
         <h1>React Web Developer/Node.JS Dev.</h1>
         <div>
             <Link to="/project" className="btn">Projects</Link>
