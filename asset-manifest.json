@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-port-app/static/css/main.b571e184.css",
-    "main.js": "/react-port-app/static/js/main.ad273c6e.js",
+    "main.js": "/react-port-app/static/js/main.c9959f66.js",
     "static/media/annevb_the_end_of_programming._colorful_futuristic_tech_3d6db463-375e-4d84-9324-2b045c20313a.png": "/react-port-app/static/media/annevb_the_end_of_programming._colorful_futuristic_tech_3d6db463-375e-4d84-9324-2b045c20313a.3a3d99b7f0da98ff3598.png",
     "static/media/ReactJS.png": "/react-port-app/static/media/ReactJS.b7f9b2cc54732a50379b.png",
     "static/media/CrudAPI.png": "/react-port-app/static/media/CrudAPI.f8d18754dc5a3553867c.png",
@@ -9,10 +9,10 @@
     "static/media/istockphoto-506250838-612x612.jpg": "/react-port-app/static/media/istockphoto-506250838-612x612.d7c4112bd60b8418c3da.jpg",
     "index.html": "/react-port-app/index.html",
     "main.b571e184.css.map": "/react-port-app/static/css/main.b571e184.css.map",
-    "main.ad273c6e.js.map": "/react-port-app/static/js/main.ad273c6e.js.map"
+    "main.c9959f66.js.map": "/react-port-app/static/js/main.c9959f66.js.map"
   },
   "entrypoints": [
     "static/css/main.b571e184.css",
-    "static/js/main.ad273c6e.js"
+    "static/js/main.c9959f66.js"
   ]
 }
